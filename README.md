@@ -1,3 +1,3 @@
 # Algoritmos-APA
 
-Estão todos no mesmo arquivo
+Todos os algoritmos se encontram no arquivo algoritmo.c. Não implementei o algoritmo do HeapSort.
